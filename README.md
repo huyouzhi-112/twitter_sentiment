@@ -5,3 +5,4 @@ Sentiment Analysis on Tweets
 3. Model Preparation (Word Frequency, TF-IDF)
 4. Model Implementation (Machine Learning Models: logistic regression, k-NN, naive bayes, SVM, decision tree, random forest, XGBoost)
 5. Prediction on Election Data
+6. Neural Network with Word Embeddings
